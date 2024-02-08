@@ -79,7 +79,7 @@ a:link , a:visited {
 </style>
 
 <div class="footer">
-    Created by Dhaval Mainkar
+    Created by Rohit John &  Tejas Kale
 </div>
 """
 
